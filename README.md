@@ -7,13 +7,6 @@
 [![](https://github-readme-streak-stats.herokuapp.com/?user=AbhyasKanaujia&theme=material-palenight)](https://github.com/AbhyasKanaujia)
 </div>
 
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/AbhyasKanaujia/AbhyasKanaujia/main/resources/img/github-contribution-grid-snake.svg"
-    alt="Abhyas Kanaujia's Contributions" />
-</p>
-
 <!--
 **AbhyasKanaujia/AbhyasKanaujia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
