@@ -1,8 +1,11 @@
 # Hi 👋, I'm 𝒜𝒷𝒽𝓎𝒶𝓈</h1>
 
-## A passionate developer from India
+## A passionate ❤️ developer from India 🇮🇳
 
 - 🌱 I’m currently learning **MERN Stack**
+- 🥅 My current goal it to **grab a good placement**
+  - ✨ Good: High package, good culture & work life balance.
+- 🆕 I'm trying out **Digital Gardening**
 
 Connect with me: [LinkedIn](https://linkedin.com/in/abhyas)
 
