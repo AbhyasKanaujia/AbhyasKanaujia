@@ -2,6 +2,8 @@
 
 ## A passionate ❤️ developer from India 🇮🇳
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhyasKanaujia&theme=material-palenight&hide_border=true)](https://git.io/streak-stats)
+
 - 🌱 I’m currently learning **MERN Stack**
 - 🥅 My current goal it to **grab a good placement**
   - ✨ Good: High package, good culture & work life balance.
